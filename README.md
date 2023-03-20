@@ -8,4 +8,3 @@
 ## How to contact me?
 - Opening issues and pull request on here.
 - The VORP discord is a great place. https://discord.gg/DmE8uy5xZv
-- I have also created a new discord specifically for scripts, and maps I have made. Mainly for me too keep track of what I have done, but also a way for me to more easily find and see issues or suggestions people make for my scripts. https://discord.gg/XubeuG3H9F
