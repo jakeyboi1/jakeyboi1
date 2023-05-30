@@ -8,3 +8,5 @@
 ## How to contact me?
 - Opening issues and pull request on here.
 - The VORP discord is a great place. https://discord.gg/DmE8uy5xZv
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jakeyboi1)](https://github.com/jakeyboi1/github-readme-stats)
