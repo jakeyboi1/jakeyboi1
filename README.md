@@ -9,4 +9,4 @@
 - Opening issues and pull request on here.
 - The VORP discord is a great place. https://discord.gg/DmE8uy5xZv
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jakeyboi1)](https://github.com/jakeyboi1/github-readme-stats)
+[![Jake2k4's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=jakeyboi1&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/jakeyboi1)
