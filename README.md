@@ -7,5 +7,5 @@
 
 ## How to contact me?
 - Opening issues and pull request on here.
-- The VORP discord is a great place. https://discord.gg/DmE8uy5xZv
+- The BCC discord is also a great place https://discord.gg/bNDpwruqwX
 
