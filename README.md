@@ -14,8 +14,8 @@
 
 - **GitHub**: You can contact me by opening issues and submitting pull requests right here on my GitHub profile.
 
-- **BCC Discord**: Join our community on Discord at [BCC Discord](https://discord.gg/C3Sb5xcBFW) to discuss open-source projects, tech trends, and more.
+- **BCC Discord**: Join our community on Discord at [BCC Discord](https://discord.gg/C3Sb5xcBFW) to discuss open-source projects, or get help.
 
-- **My Personal Dev Discord**: If you'd like to connect on a more personal level, you can also find me on my personal development Discord server at [Personal Dev Discord](https://discord.gg/C3Sb5xcBFW).
+- **My Personal Dev Discord**: You can also find me on my personal development Discord server at [Personal Dev Discord](https://discord.gg/C3Sb5xcBFW).
 
 Let's collaborate, learn, and create together! 🚀
