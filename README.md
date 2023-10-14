@@ -2,11 +2,17 @@
 
 ## About Me
 
-🌟 I'm a passionate developer with a deep love for coding and computer science. My journey in the world of technology has been an exciting one, and I'm always eager to explore new possibilities.
+🌟 I'm a passionate hobbyist developer with a deep love for coding and computer science. My journey in the world of technology has been an exciting one, and I'm always eager to explore new possibilities.
 
 🎮 When I'm not immersed in the world of code, you can often find me enjoying my favorite games. Video games have been a source of inspiration and relaxation for me, and they often spark my creativity.
 
-🛠️ Currently, I contribute as a developer to the open-source software (OSS) development studio, BCC. You can check out our projects on [BCC GitHub](https://github.com/BryceCanyonCounty).
+## Organizations I'm Part Of
+
+🏢 Here are the organizations I'm proud to be associated with:
+
+- [BCC - Bryce Canyon County](https://github.com/BryceCanyonCounty): I'm an active developer here, working on exciting open-source projects with a talented team.
+
+- [Feather Framework](https://github.com/FeatherFramework):  I'm an active developer here, working on an immersive open-source RedM framework with a talented team.
 
 ## How to Connect
 
