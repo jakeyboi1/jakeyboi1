@@ -1,16 +1,11 @@
-### 👋 Welcome to My GitHub Profile
+# 👋 Welcome to My GitHub!
 
-## About Me
+I’m a software developer with experience in a variety of programming languages including **Lua**, **Python**, **C++**, **HTML**, **JavaScript**, **CSS**, and **SQL**. My coding journey started with **RedM**, where I spent several years developing scripts as part of a group called **[BCC](https://github.com/BryceCanyonCounty)**. Those years taught me a lot and shaped the way I approach development today.
 
-🌟 I'm a passionate hobbyist developer with a deep love for coding and computer science. My journey in the world of technology has been an exciting one, and I'm always eager to explore new possibilities.
+Since then, I’ve expanded my skills and interests into several areas of software development, and my current coding hobbies include:
 
-🎮 When I'm not immersed in the world of code, you can often find me enjoying my favorite games. Video games have been a source of inspiration and relaxation for me, and they often spark my creativity.
+- **Game Hacking & Reverse Engineering**: Exploring how games work behind the scenes.
+- **Web Development**: Creating functional and visually appealing websites.
+- **Visual Basic**: Required by college, but still a learning experience!
 
-## How to Connect
-
-📬 Feel free to reach out to me through the following channels:
-
-- **GitHub**: You can contact me by opening issues and submitting pull requests right here on my GitHub profile.
-  
-
-Let's collaborate, learn, and create together! 🚀
+Feel free to explore my repositories and projects, and let’s connect!
