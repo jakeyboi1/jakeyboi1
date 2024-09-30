@@ -6,6 +6,6 @@ Since then, I’ve expanded my skills and interests into several areas of softwa
 
 - **Game Hacking & Reverse Engineering**: Exploring how games work behind the scenes, and making mods for them.
 - **Web Development**: Creating web pages for personal projects.
-- **Visual Basic**: Required by college (Sadly), but still a learning experience!
+- **Visual Basic**: Required by college, but still a learning experience!
 
 Feel free to explore my repositories and projects!
