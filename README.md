@@ -4,8 +4,8 @@ I’m a software developer with experience in a variety of programming languages
 
 Since then, I’ve expanded my skills and interests into several areas of software development, and my current coding hobbies include:
 
-- **Game Hacking & Reverse Engineering**: Exploring how games work behind the scenes.
-- **Web Development**: Creating functional and visually appealing websites.
-- **Visual Basic**: Required by college, but still a learning experience!
+- **Game Hacking & Reverse Engineering**: Exploring how games work behind the scenes, and making mods for them.
+- **Web Development**: Creating web pages for personal projects.
+- **Visual Basic**: Required by college (Sadly), but still a learning experience!
 
 Feel free to explore my repositories and projects, and let’s connect!
