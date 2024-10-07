@@ -26,4 +26,3 @@ Since then, I’ve expanded my skills and interests into several areas of softwa
     <img src="https://github-readme-stats.vercel.app/api?username=jakeyboi1&show_icons=true&theme=cobalt" alt="">
 </p>
 
-Feel free to explore my repositories and projects!
