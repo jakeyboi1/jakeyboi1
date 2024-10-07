@@ -22,7 +22,7 @@ Since then, I’ve expanded my skills and interests into several areas of softwa
 <h3 align="center">Currently Learning</h3>
 
 <p align="center">
-    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+    <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
 </br>
