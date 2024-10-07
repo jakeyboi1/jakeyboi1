@@ -9,6 +9,7 @@ Since then, I’ve expanded my skills and interests into several areas of softwa
 - **Visual Basic**: Required by college, but still a learning experience!
 
 </br>
+
 ## Languages I Use
 | Proficiency | Languages |
 |-------------|-----------|
