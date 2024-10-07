@@ -10,7 +10,20 @@ Since then, I’ve expanded my skills and interests into several areas of softwa
 
 </br>
 
-<h2 align="center">Languages I Use</h2>
+<h2 align="center">Languages and Frameworks</h2>
+<p align="center">
+    <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/>
+    <img alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08Dstyle=flat"/>
+</p>
+
+<h3>Currently Learning</h3>
+
+<p align="center">
+    <img alt="C++" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus"/>
+</p>
 
 | Proficiency | Languages |
 |-------------|-----------|
