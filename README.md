@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub!
+<h1 align="center">👋 Welcome to My GitHub! </h1>
 
 I’m a software developer with experience in a variety of programming languages. I love learning new languages and technologies, and luckily I learn pretty quickly. My coding journey started with **RedM**, where I spent several years developing scripts as part of a group called **[BCC](https://github.com/BryceCanyonCounty)**. Those years taught me a lot and shaped the way I approach development today.
 
