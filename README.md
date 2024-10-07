@@ -19,7 +19,7 @@ Since then, I’ve expanded my skills and interests into several areas of softwa
     <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08Dstyle=flat"/>
 </p>
 
-<h3>Currently Learning</h3>
+<h3 align="center">Currently Learning</h3>
 
 <p align="center">
     <img alt="C++" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus"/>
