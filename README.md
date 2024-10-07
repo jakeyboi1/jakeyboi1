@@ -11,6 +11,7 @@ Since then, I’ve expanded my skills and interests into several areas of softwa
 </br>
 
 <h2 align="center">Languages I Use</h2>
+
 | Proficiency | Languages |
 |-------------|-----------|
 | ★★★★★       | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="50" height="50" alt="Lua">  |
