@@ -4,7 +4,7 @@ I’m a software developer with experience in a variety of programming languages
 
 Since then, I’ve expanded my skills and interests into several areas of software development. Some of my current interests include:
 
-- **Reverse Engineering, geared towards game modification**: Exploring how games function behind the scenes and how this knowledge can be used to modifiy games.
+- **Reverse Engineering, geared towards game modification**: Exploring how games function behind the scenes and how this knowledge can be used to modify games.
 - **Web Development**: Creating web pages for personal projects.
 
 </br>
