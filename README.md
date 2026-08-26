@@ -26,6 +26,5 @@ Since then, I’ve expanded my skills and interests into several areas of softwa
 
 <h2 align="center">📊 Statistics </h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jakeyboi1&show_icons=true&theme=radial&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakeyboi1&layout=compact&theme=radial&langs_count=6" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakeyboi1&theme=radial" width="80%" />
 </p>
