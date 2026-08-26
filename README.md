@@ -21,10 +21,3 @@ Since then, I’ve expanded my skills and interests into several areas of softwa
     <img alt="Unity Engine" src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white"/>
     <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
 </p>
-
-</br>
-
-<h2 align="center">📊 Statistics </h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakeyboi1&theme=radial" width="80%" />
-</p>
