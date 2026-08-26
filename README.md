@@ -2,10 +2,7 @@
 
 I’m a software developer with experience in a variety of programming languages. I love learning new languages and technologies, and luckily I learn pretty quickly. My coding journey started with **RedM**, where I spent several years developing scripts as part of a group called **[BCC](https://github.com/BryceCanyonCounty)**. Those years taught me a lot and shaped the way I approach development today.
 
-Since then, I’ve expanded my skills and interests into several areas of software development. Some of my current interests include:
-
-- **Reverse Engineering, geared towards game modification**: Exploring how games function behind the scenes and how this knowledge can be used to modify games.
-- **Web Development**: Creating web pages for personal projects.
+Since then, I’ve expanded my skills and interests into several areas of software development. With my current fixation being game development using the Unity Engine.
 
 </br>
 
@@ -21,7 +18,8 @@ Since then, I’ve expanded my skills and interests into several areas of softwa
 <h3 align="center">Currently Learning</h3>
 
 <p align="center">
-    <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img alt="Unity Engine" src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white"/>
+    <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"
 </p>
 
 </br>
