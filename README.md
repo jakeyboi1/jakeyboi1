@@ -26,6 +26,6 @@ Since then, I’ve expanded my skills and interests into several areas of softwa
 
 <h2 align="center">📊 Statistics </h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jakeyboi1&show_icons=true&theme=cobalt" alt="Statistics">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radial)
 </p>
 
