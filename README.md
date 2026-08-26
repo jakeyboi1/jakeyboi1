@@ -19,12 +19,13 @@ Since then, I’ve expanded my skills and interests into several areas of softwa
 
 <p align="center">
     <img alt="Unity Engine" src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white"/>
-    <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" />
+    <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
 </p>
 
 </br>
 
 <h2 align="center">📊 Statistics </h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jakeyboi1&show_icons=true&theme=radial" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jakeyboi1&show_icons=true&theme=radial&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakeyboi1&layout=compact&theme=radial&langs_count=6" width="48%" />
 </p>
